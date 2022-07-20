@@ -1,18 +1,9 @@
-### Hi there 👋
-Master of Computer Science
-<!--
-**SauronLee/SauronLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<div class="row mt-2">
+  <video muted autoplay playsinline loop style="width:100%;vertical-align:middle">
+    <source src="/images/top_video.mp4" type="video/mp4" />
+  </video>
+  <video muted autoplay playsinline loop style="width:100%;vertical-align:middle">
+    <source src="/images/t_v.mp4" type="video/mp4" />
+  </video>
+</div>
 ![](https://github-readme-stats.vercel.app/api?username=SauronLee)
